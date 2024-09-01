@@ -191,7 +191,7 @@ function createPosNatureDropdown() {
     
     dropdown.options[0] = new Option("Well-rounded", "well-rounded");
     dropdown.options[1] = new Option("Strong", "strong");
-    dropdown.options[2] = new Option("Resilient", "resilientust");
+    dropdown.options[2] = new Option("Resilient", "resilient");
     dropdown.options[3] = new Option("Adept", "adept");
     dropdown.options[4] = new Option("Tenacious", "tenacious");
     dropdown.options[5] = new Option("Swift", "swift");
