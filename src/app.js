@@ -189,12 +189,12 @@ function createMoveDropdown() {
 function createPosNatureDropdown() {
     let dropdown = document.createElement("select");
     
-    dropdown.options[0] = new Option("Well-rounded", "wellrounded");
+    dropdown.options[0] = new Option("Well-rounded", "well-rounded");
     dropdown.options[1] = new Option("Strong", "strong");
     dropdown.options[2] = new Option("Resilient", "robresilientust");
     dropdown.options[3] = new Option("Adept", "adept");
     dropdown.options[4] = new Option("Tenacious", "tenacious");
-    dropdown.options[5] = new Option("Swift", "Swift");
+    dropdown.options[5] = new Option("Swift", "swift");
 
     return dropdown;
 }
